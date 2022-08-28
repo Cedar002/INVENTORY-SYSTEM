@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\InventoryManagementSystem\InventorySystem\obj\Release\InventoryMSystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\InventoryManagementSystem\InventorySystem\obj\Release\InventoryMSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\InventoryManagementSystem\InventorySystem\obj\Release\InventorySystemCsharp.Admin_home.resources
+C:\Users\User\Desktop\InventoryManagementSystem\InventorySystem\obj\Release\InventorySystemCsharp.Confirm.resources
+C:\Users\User\Desktop\InventoryManagementSystem\InventorySystem\obj\Release\InventorySystemCsharp.Home.resources
+C:\Users\User\Desktop\InventoryManagementSystem\InventorySystem\obj\Release\InventorySystemCsharp.Login.resources
+C:\Users\User\Desktop\InventoryManagementSystem\InventorySystem\obj\Release\InventorySystemCsharp.Manager_home.resources
+C:\Users\User\Desktop\InventoryManagementSystem\InventorySystem\obj\Release\InventorySystemCsharp.MyOrders.resources
+C:\Users\User\Desktop\InventoryManagementSystem\InventorySystem\obj\Release\InventorySystem.Properties.Resources.resources
+C:\Users\User\Desktop\InventoryManagementSystem\InventorySystem\obj\Release\InventorySystemCsharp.SignUp.resources
+C:\Users\User\Desktop\InventoryManagementSystem\InventorySystem\obj\Release\InventorySystemCsharp.UserControl1.resources
+C:\Users\User\Desktop\InventoryManagementSystem\InventorySystem\obj\Release\InventorySystemCsharp.User_list.resources
+C:\Users\User\Desktop\InventoryManagementSystem\InventorySystem\obj\Release\InventoryMSystem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\InventoryManagementSystem\InventorySystem\obj\Release\InventoryMSystem.csproj.CoreCompileInputs.cache
