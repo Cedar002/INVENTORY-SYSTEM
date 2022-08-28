@@ -1,0 +1,13 @@
+NAME: SELASI KUEKE-CEDAR
+ID: 10818489**
+
+**Database Name: inventorymgcsharp**
+
+**Admin Login Details**
+
+Username: admin
+Password: password123
+
+**Manager Login Details**
+Username: manager
+Password: manager123

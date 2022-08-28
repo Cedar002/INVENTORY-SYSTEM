@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryMSystem", "InventorySystem\InventoryMSystem.csproj", "{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}.Debug|x64.ActiveCfg = Debug|x64
+		{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}.Debug|x64.Build.0 = Debug|x64
+		{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}.Debug|x86.ActiveCfg = Debug|x86
+		{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}.Debug|x86.Build.0 = Debug|x86
+		{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}.Release|x64.ActiveCfg = Release|x64
+		{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}.Release|x64.Build.0 = Release|x64
+		{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}.Release|x86.ActiveCfg = Release|x86
+		{6933FE2F-29AA-456D-AF6E-3E848E5AAE2F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CA2FE50-A8F8-4C0F-A522-75242E2312BB}
+	EndGlobalSection
+EndGlobal
